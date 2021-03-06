@@ -23,7 +23,7 @@ function Home(){
       <div className="home__body">
         <img src={logo} />
         <div className="home__inputContainer">
-          <Search />
+          <Search hideButtons />
         </div>
       </div>
     </div>
